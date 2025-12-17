@@ -2,6 +2,8 @@
 
 A FastAPI service implementing **token-gated LLM execution** using LangGraph. This system enforces predictable cost envelopes across planning, retrieval, generation, and quality assessment phases.
 
+For the conceptual deep-dive, see the accompanying article: [LLM Cost Optimization and Token Gating](https://medium.com/@adnansattar09/llm-cost-optimization-and-token-gating).
+
 ## Architecture
 
 ```
